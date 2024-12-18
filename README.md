@@ -11,7 +11,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 1   | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2024/1) | [solución](./src/challenge01.js) | 5         |
 | 2   | [Enmarcando nombres](https://adventjs.dev/es/challenges/2024/2)       | [solución](./src/challenge02.js) | 5         |
 | 3   | [Organiando el inventario](https://adventjs.dev/es/challenges/2024/3) | [solución](./src/challenge03.js) | 0         |
-
+ 
 ## Como ejecutar el código :running:
 
 ```
